@@ -9,3 +9,5 @@ Q
 !contracts/host-compatibility.clar,6/6/66a3ccf3f4354f828630cd70a8b03e39f020f68d
 P
  tests/host-compatibility.test.ts,7/4/74405d27b3707640a942575b9e391b1b10cf2e35
+R
+"contracts/continuity-tracking.clar,8/d/8d92e361483343e55207bceb887c7464c9890383
