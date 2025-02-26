@@ -11,3 +11,5 @@ P
  tests/host-compatibility.test.ts,7/4/74405d27b3707640a942575b9e391b1b10cf2e35
 R
 "contracts/continuity-tracking.clar,8/d/8d92e361483343e55207bceb887c7464c9890383
+Q
+!tests/continuity-tracking.test.ts,d/f/df09ab17ad182ed25e328ca3b921d10e9bfdda7d
