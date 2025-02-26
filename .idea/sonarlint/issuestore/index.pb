@@ -15,3 +15,5 @@ Q
 !tests/continuity-tracking.test.ts,d/f/df09ab17ad182ed25e328ca3b921d10e9bfdda7d
 P
  contracts/ethical-oversight.clar,e/f/efd1f2336cb9bc2c3c5c0bc2b57fd5dab761d5bf
+O
+tests/ethical-oversight.test.ts,0/5/053e82093bedddec119c7f830442e62aa7bf38c1
