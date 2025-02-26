@@ -10,6 +10,11 @@ path = 'contracts/continuity-tracking.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.ethical-oversight]
+path = 'contracts/ethical-oversight.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.host-compatibility]
 path = 'contracts/host-compatibility.clar'
 clarity_version = 2
